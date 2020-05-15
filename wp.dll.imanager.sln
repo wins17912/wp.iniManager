@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wp.dll.imanager", "wp.dll.imanager.csproj", "{DB5EC20A-D89A-4D38-9723-3EEA73E43F6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB5EC20A-D89A-4D38-9723-3EEA73E43F6D}.Debug|x86.ActiveCfg = Debug|x86
+		{DB5EC20A-D89A-4D38-9723-3EEA73E43F6D}.Debug|x86.Build.0 = Debug|x86
+		{DB5EC20A-D89A-4D38-9723-3EEA73E43F6D}.Release|x86.ActiveCfg = Release|x86
+		{DB5EC20A-D89A-4D38-9723-3EEA73E43F6D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		BuildVersion_UseGlobalSettings = True
+		BuildVersion_StartDate = 2000/1/1
+		SolutionGuid = {9AF0F15C-D6A5-4980-ACB3-E04C9ABDC193}
+	EndGlobalSection
+EndGlobal
