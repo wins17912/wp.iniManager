@@ -53,6 +53,10 @@
     </VisualStudio>
   </ProjectExtensions>
   <PropertyGroup>
-    <PostBuildEvent>D:\#VSP\3.Разработка\wp.assemblyUpdater\bin\Debug\wp.assemblyUpdater.exe $(TargetDir)</PostBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PreBuildEvent>D:\#VSP\3.Разработка\wp.assemblyUpdater\bin\Debug\wp.assemblyUpdater.exe $(TargetDir)</PreBuildEvent>
   </PropertyGroup>
 </Project>

@@ -6,7 +6,7 @@ namespace wp.dll.iniManager
 {
     public class IniManager
     {
-        private string Path { get; } = AppDomain.CurrentDomain.BaseDirectory + @"config.ini";
+        private string Path { get; } = AppDomain.CurrentDomain.BaseDirectory + @"config.ini"; 
 
         public IniManager(string aPath) => Path = aPath;
 
